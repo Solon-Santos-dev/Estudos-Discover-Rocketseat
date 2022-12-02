@@ -1,0 +1,54 @@
+#container {
+color: black;
+display: flex;
+
+align-items: center;
+background: radial-gradient(blueviolet, aqua);
+padding: 10px;
+width: 550px;
+margin:0;
+}
+
+.FrasePrincipal {
+    display: flex;
+    position: center;
+
+}
+
+h2 {
+    color: black;
+
+    border: 3px yellow solid;
+    background-color: blueviolet;
+    padding: 20px;
+    width: 150px;
+}
+
+.m-50 {
+    margin: 50px;
+}
+
+/* Acima eu aprendi como alterar as propriedades de um elemento específico por meio da #container*/
+
+/*    background-color: black;
+    height: 130px;
+    border: 10px dashed blue;
+    padding: 16px;
+    background-image: url(https://i.imgur.com/8lUJ8Xr.png);
+    color: blue;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-origin: padding-box;
+    background-clip: padding-box;
+}*/
+p {
+    color:black;
+    background: aqua;
+    width: 400px;
+    padding: 10px;
+}
+
+
+
+
