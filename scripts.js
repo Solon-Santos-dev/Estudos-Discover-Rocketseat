@@ -18,19 +18,19 @@ isSubscribed: false
 // console.log(`${student.name} de idade ${student.age} e ${student.weight} kg.`)
 
 //*Trabaalhando com Arrays:
-let students = [
-    student
-]
+// let students = [
+//     student
+// ]
 
 // console.log(students[0])
 
-const lucas = {
-    name: "Lucas",
-    age: 28,
-    weight: 100,
-    isSubscribed: false,
-}
-students[1] = lucas
-console.log(students)
+// const lucas = {
+//     name: "Lucas",
+//     age: 28,
+//     weight: 100,
+//     isSubscribed: false,
+// }
+// students[1] = lucas
+// console.log(students)
 
     
