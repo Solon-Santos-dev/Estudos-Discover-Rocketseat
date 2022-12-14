@@ -120,3 +120,21 @@ Isso basicamente verifica se:
 Dentro do meu texte há a palavra "amor"?
 retornando um valor boolean = true or false.
 */
+
+let techs = ['html', 'javascript', 'css']
+
+techs.push("nodejs") //Essa função adiciona um elemento no final do Array.
+
+techs.unshift("sql") //Adiciona o elemento no início.
+
+// techs.pop() //Remove o último item.
+
+// techs.shift() //Remove o primeiro item.
+
+// console.log(techs.slice(2, 3)) //"pegar" alguns elementos específicos dentro do array.
+
+// techs.splice(1, 2) //Remover um ou mais itens em qualquer posição do Array.
+// let index = techs.indexOf('javascript')
+// techs.splice(index, 1)
+
+// console.log(techs)
