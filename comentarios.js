@@ -86,3 +86,10 @@ Para verificar o tipo de dado colocado na varável e imrprimir na tela é só co
 console.log(typeof + nome da variavel)
 
 */
+
+/*
+17-12-22
+Hoje foi dia de revisar alguns conceitos da base do JS, fazer alguns exercícios e praticar um pouco mais.
+Como já vi o básico de React, quero me aprofundar mais nessa tecnologia tão requisitada do desenvolvimento Front-End.
+Essa semana irei planejar melhor isso.
+*/

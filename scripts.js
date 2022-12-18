@@ -8,12 +8,12 @@
     // console.log(personDatas.adress)
 //*Trabalhando com objetos:
 
-let student = {
-name: "Solon",
-age: 24,
-weight: 4.8,
-isSubscribed: false
-}
+// let student = {
+// name: "Solon",
+// age: 24,
+// weight: 4.8,
+// isSubscribed: false
+// }
 
 // console.log(`${student.name} de idade ${student.age} e ${student.weight} kg.`)
 
@@ -33,4 +33,5 @@ isSubscribed: false
 // students[1] = lucas
 // console.log(students)
 
-    
+
+

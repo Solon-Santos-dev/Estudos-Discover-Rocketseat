@@ -121,11 +121,11 @@ Dentro do meu texte há a palavra "amor"?
 retornando um valor boolean = true or false.
 */
 
-let techs = ['html', 'javascript', 'css']
+// let techs = ['html', 'javascript', 'css']
 
-techs.push("nodejs") //Essa função adiciona um elemento no final do Array.
+// techs.push("nodejs") //Essa função adiciona um elemento no final do Array.
 
-techs.unshift("sql") //Adiciona o elemento no início.
+// techs.unshift("sql") //Adiciona o elemento no início.
 
 // techs.pop() //Remove o último item.
 
@@ -138,3 +138,8 @@ techs.unshift("sql") //Adiciona o elemento no início.
 // techs.splice(index, 1)
 
 // console.log(techs)
+
+// let number = (1)
+// console.log(number)
+
+
