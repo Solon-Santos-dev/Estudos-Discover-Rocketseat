@@ -142,4 +142,28 @@ retornando um valor boolean = true or false.
 // let number = (1)
 // console.log(number)
 
+//Operadores Aritméticos
+
+//resto da divisão %
+let remainder //tradução= resto da divisão
+remainder = 11 % 9
+// console.log(remainder)
+
+//incremento ++ (adiciona +1)
+let increment = 0
+++increment //se quisermos continuar incremetando, precisamos chamar novamente o "increment"
+// console.log(increment)
+
+//decremento -- (subtrai -1)
+let decrement = 0
+--decrement
+console.log(decrement)
+//exponencial **
+console.log(2 ** 2)
+
+
+
+
+
+
 
