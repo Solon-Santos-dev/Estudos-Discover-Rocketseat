@@ -163,6 +163,8 @@ console.log(2 ** 2)
 
 //As operações feitas acima foram para praticar mais os Operadores Aritméticos do JavaScript, e realizar alguns exercícios para ficar o conteúdo.
 
+console.log("oi")
+
 
 
 
