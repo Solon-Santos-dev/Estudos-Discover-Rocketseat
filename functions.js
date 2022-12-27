@@ -174,16 +174,51 @@ retornando um valor boolean = true or false.
 //  Igual a e Diferente de:
 // Já tinha visto anteriormente, mas não custa nada praticar:
 
-let one = 1
-let two = 2
+// let one = 1
+// let two = 2
 
 // == é o sinal que usamos para *comparar
 
-console.log(two == 1)
-console.log(one == "1")
-console.log(2 != two)
+// console.log(two == 1)
+// console.log(one == "1")
+// console.log(2 != two)
+
+//Para o conhecimento, temos também o Estritamente Diferente e Igual representados pelos sinais: !== e === respectivamente.
+
+//Basicamente so dois primeiros símbolos irão comparar o valor, e o terceiro o tipo (string,number,etc.)
+
+//Operadores de comparação:
+// > Maior que / >= Maior igual a
+// < Menor que / <= Menor igual a
+
+//Operadores de atribuição:
+
+let x
+//assignment
+x = 1
+//addition assignmet x = x + 2
+x += 2
+
+//subtraction assignmet x = x - 1
+x -= 1
+
+//multiplication assignmet x = x * 2
+x *= 2
+
+//division assignmet x = x / 2
+x /= 2
+
+//remainder (restso da divisão), exponetiation (exponenciação)
+// x %= 2
+
+// x **= 2
+console.log(x)
 
 
+
+
+
+console.log(x)
 
 
 
