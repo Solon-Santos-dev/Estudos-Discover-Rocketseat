@@ -145,25 +145,31 @@ retornando um valor boolean = true or false.
 //Operadores Aritméticos
 
 //resto da divisão %
-let remainder //tradução= resto da divisão
-remainder = 11 % 9
+// let remainder //tradução= resto da divisão
+// remainder = 11 % 9
 // console.log(remainder)
 
 //incremento ++ (adiciona +1)
-let increment = 0
-++increment //se quisermos continuar incremetando, precisamos chamar novamente o "increment"
+// let increment = 0
+// ++increment //se quisermos continuar incremetando, precisamos chamar novamente o "increment"
 // console.log(increment)
 
 //decremento -- (subtrai -1)
-let decrement = 0
---decrement
-console.log(decrement)
+// let decrement = 0
+// --decrement
+// console.log(decrement)
 //exponencial **
-console.log(2 ** 2)
+// console.log(2 ** 2)
 
 //As operações feitas acima foram para praticar mais os Operadores Aritméticos do JavaScript, e realizar alguns exercícios para ficar o conteúdo.
 
-console.log("oi")
+// console.log("oi") //-> teste
+
+//Grouping Operators
+let total = (1 + 2) * 5
+console.log(total)
+
+//Serve para definir uma ordem de precedência, basicamente.
 
 
 
