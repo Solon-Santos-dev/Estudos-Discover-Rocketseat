@@ -166,10 +166,23 @@ retornando um valor boolean = true or false.
 // console.log("oi") //-> teste
 
 //Grouping Operators
-let total = (1 + 2) * 5
-console.log(total)
+// let total = (1 + 2) * 5
+// console.log(total)
 
 //Serve para definir uma ordem de precedência, basicamente.
+
+//  Igual a e Diferente de:
+// Já tinha visto anteriormente, mas não custa nada praticar:
+
+let one = 1
+let two = 2
+
+// == é o sinal que usamos para *comparar
+
+console.log(two == 1)
+console.log(one == "1")
+console.log(2 != two)
+
 
 
 
